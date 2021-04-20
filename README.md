@@ -8,6 +8,8 @@ The city name that we use is: 255274 and it stands for Piraeus Greece. You can f
 
 We use Tkinter 
 
+We inform about the time, temperature, the selected city, current time, the image of the current weather status and the most important, if jacket is needed. 
+
 This project is running better at 3.5 inces RaspberryPi LCD Screen
 
 ![ScreenShotOfTheProject](https://github.com/thanasisgnr1/RaspberryPi_Weather_API/blob/main/RaspberryPiWeatherAPI.png)
