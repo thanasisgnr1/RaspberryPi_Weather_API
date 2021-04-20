@@ -15,7 +15,7 @@ window = Tk()
 window.attributes('-fullscreen', True)
 
 
-settings = {'city name':'255274','api_key':'939fcf09a4313e07e6c851fd043837c6'} 
+settings = {'city name':'255274','api_key':'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'} 
 
 BASE_URL = "http://api.openweathermap.org/data/2.5/weather?id={0}&appid={1}&units=metric"
 
