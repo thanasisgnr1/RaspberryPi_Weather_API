@@ -1,4 +1,4 @@
-# RaspberryPi_Weather_API
+# RaspberryPi Weather API
 
 I just made my first Raspberry Pi Python Project with OpenWeatherMap API
 
